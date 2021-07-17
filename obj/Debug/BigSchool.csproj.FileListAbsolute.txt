@@ -1,0 +1,345 @@
+C:\Users\Phong\source\repos\BigSchool\bin\BigSchool.dll.config
+C:\Users\Phong\source\repos\BigSchool\bin\BigSchool.dll
+C:\Users\Phong\source\repos\BigSchool\bin\BigSchool.pdb
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\csc.exe
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\csc.exe.config
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\csc.rsp
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\csi.exe
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\csi.exe.config
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\csi.rsp
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.AppContext.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.Console.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.IO.Compression.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.Net.Http.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.ValueTuple.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\vbc.exe
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\vbc.exe.config
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\vbc.rsp
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\VBCSCompiler.exe
+C:\Users\Phong\source\repos\BigSchool\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Phong\source\repos\BigSchool\bin\Antlr3.Runtime.dll
+C:\Users\Phong\source\repos\BigSchool\bin\EntityFramework.dll
+C:\Users\Phong\source\repos\BigSchool\bin\EntityFramework.SqlServer.dll
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.Owin.dll
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.Owin.Security.dll
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Phong\source\repos\BigSchool\bin\Newtonsoft.Json.dll
+C:\Users\Phong\source\repos\BigSchool\bin\Owin.dll
+C:\Users\Phong\source\repos\BigSchool\bin\System.Web.Helpers.dll
+C:\Users\Phong\source\repos\BigSchool\bin\System.Web.Mvc.dll
+C:\Users\Phong\source\repos\BigSchool\bin\System.Web.Optimization.dll
+C:\Users\Phong\source\repos\BigSchool\bin\System.Web.Razor.dll
+C:\Users\Phong\source\repos\BigSchool\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Phong\source\repos\BigSchool\bin\System.Web.WebPages.dll
+C:\Users\Phong\source\repos\BigSchool\bin\System.Web.WebPages.Razor.dll
+C:\Users\Phong\source\repos\BigSchool\bin\WebGrease.dll
+C:\Users\Phong\source\repos\BigSchool\bin\EntityFramework.xml
+C:\Users\Phong\source\repos\BigSchool\bin\EntityFramework.SqlServer.xml
+C:\Users\Phong\source\repos\BigSchool\bin\System.Web.Helpers.xml
+C:\Users\Phong\source\repos\BigSchool\bin\System.Web.Mvc.xml
+C:\Users\Phong\source\repos\BigSchool\bin\System.Web.Optimization.xml
+C:\Users\Phong\source\repos\BigSchool\bin\System.Web.Razor.xml
+C:\Users\Phong\source\repos\BigSchool\bin\System.Web.WebPages.xml
+C:\Users\Phong\source\repos\BigSchool\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Phong\source\repos\BigSchool\bin\System.Web.WebPages.Razor.xml
+C:\Users\Phong\source\repos\BigSchool\bin\Newtonsoft.Json.xml
+C:\Users\Phong\source\repos\BigSchool\bin\Antlr3.Runtime.pdb
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.Owin.xml
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.Owin.Security.xml
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Phong\source\repos\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Phong\source\repos\BigSchool\obj\Debug\BigSchool.csproj.CoreCompileInputs.cache
+C:\Users\Phong\source\repos\BigSchool\obj\Debug\BigSchool.csproj.CopyComplete
+C:\Users\Phong\source\repos\BigSchool\obj\Debug\BigSchool.dll
+C:\Users\Phong\source\repos\BigSchool\obj\Debug\BigSchool.pdb
+C:\Users\Phong\source\repos\BigSchool\bin\Content\Site.css
+C:\Users\Phong\source\repos\BigSchool\obj\Debug\BigSchool.csproj.AssemblyReference.cache
+C:\Users\Phong\source\repos\BigSchool\bin\System.Net.Http.Formatting.dll
+C:\Users\Phong\source\repos\BigSchool\bin\System.Web.Http.dll
+C:\Users\Phong\source\repos\BigSchool\bin\System.Web.Http.WebHost.dll
+C:\Users\Phong\source\repos\BigSchool\bin\System.Net.Http.Formatting.xml
+C:\Users\Phong\source\repos\BigSchool\bin\System.Web.Http.xml
+C:\Users\Phong\source\repos\BigSchool\bin\System.Web.Http.WebHost.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\Content\Site.css
+W:\Exe\BigSchool (1)\BigSchool\bin\BigSchool.dll.config
+W:\Exe\BigSchool (1)\BigSchool\bin\BigSchool.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\BigSchool.pdb
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\csc.exe
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\csc.exe.config
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\csc.rsp
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\csi.exe
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\csi.exe.config
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\csi.rsp
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.Managed.Core.targets
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.Win32.Primitives.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.AppContext.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.Collections.Immutable.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.Console.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.Diagnostics.StackTrace.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.Globalization.Calendars.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.IO.Compression.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.IO.Compression.ZipFile.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.IO.FileSystem.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.IO.FileSystem.Primitives.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.Net.Http.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.Net.Sockets.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.Reflection.Metadata.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.Security.Cryptography.Encoding.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.Security.Cryptography.Primitives.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.Text.Encoding.CodePages.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.Threading.Tasks.Extensions.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.ValueTuple.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.Xml.ReaderWriter.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.Xml.XmlDocument.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.Xml.XPath.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\System.Xml.XPath.XDocument.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\vbc.exe
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\vbc.exe.config
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\vbc.rsp
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\VBCSCompiler.exe
+W:\Exe\BigSchool (1)\BigSchool\bin\roslyn\VBCSCompiler.exe.config
+W:\Exe\BigSchool (1)\BigSchool\bin\Antlr3.Runtime.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\EntityFramework.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\EntityFramework.SqlServer.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.AspNet.Identity.Core.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.AspNet.Identity.Owin.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.Owin.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Host.SystemWeb.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.Cookies.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.Facebook.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.Google.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.OAuth.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.Twitter.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.Web.Infrastructure.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\Newtonsoft.Json.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\Owin.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\System.Net.Http.Formatting.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\System.Web.Helpers.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\System.Web.Http.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\System.Web.Http.WebHost.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\System.Web.Mvc.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\System.Web.Optimization.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\System.Web.Razor.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\System.Web.WebPages.Deployment.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\System.Web.WebPages.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\System.Web.WebPages.Razor.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\WebGrease.dll
+W:\Exe\BigSchool (1)\BigSchool\bin\EntityFramework.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\EntityFramework.SqlServer.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\System.Net.Http.Formatting.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\System.Web.Http.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\System.Web.Http.WebHost.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\System.Web.Helpers.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\System.Web.Mvc.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\System.Web.Optimization.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\System.Web.Razor.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\System.Web.WebPages.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\System.Web.WebPages.Deployment.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\System.Web.WebPages.Razor.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\Newtonsoft.Json.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\Antlr3.Runtime.pdb
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.AspNet.Identity.Core.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.AspNet.Identity.Owin.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.Owin.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Host.SystemWeb.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.Facebook.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.Cookies.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.Google.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.Twitter.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.OAuth.xml
+W:\Exe\BigSchool (1)\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\Exe\BigSchool (1)\BigSchool\obj\Debug\BigSchool.csproj.AssemblyReference.cache
+W:\Exe\BigSchool (1)\BigSchool\obj\Debug\BigSchool.csproj.CoreCompileInputs.cache
+W:\Exe\BigSchool (1)\BigSchool\obj\Debug\BigSchool.csproj.CopyComplete
+W:\Exe\BigSchool (1)\BigSchool\obj\Debug\BigSchool.dll
+W:\Exe\BigSchool (1)\BigSchool\obj\Debug\BigSchool.pdb
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Content\Site.css
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\BigSchool.dll.config
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\BigSchool.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\BigSchool.pdb
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\csc.exe
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\csc.exe.config
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\csc.rsp
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\csi.exe
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\csi.exe.config
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\csi.rsp
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.AppContext.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.Collections.Immutable.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.Console.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.Globalization.Calendars.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.IO.Compression.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.IO.FileSystem.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.Net.Http.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.Net.Sockets.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.Reflection.Metadata.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.ValueTuple.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.Xml.XPath.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\vbc.exe
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\vbc.exe.config
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\vbc.rsp
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\VBCSCompiler.exe
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\roslyn\VBCSCompiler.exe.config
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Antlr3.Runtime.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\EntityFramework.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\EntityFramework.SqlServer.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.Owin.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.Google.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.Web.Infrastructure.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Newtonsoft.Json.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Owin.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\System.Net.Http.Formatting.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\System.Web.Helpers.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\System.Web.Http.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\System.Web.Http.WebHost.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\System.Web.Mvc.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\System.Web.Optimization.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\System.Web.Razor.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\System.Web.WebPages.Deployment.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\System.Web.WebPages.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\System.Web.WebPages.Razor.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\WebGrease.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\EntityFramework.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\EntityFramework.SqlServer.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\System.Net.Http.Formatting.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\System.Web.Http.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\System.Web.Http.WebHost.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\System.Web.Helpers.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\System.Web.Mvc.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\System.Web.Optimization.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\System.Web.Razor.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\System.Web.WebPages.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\System.Web.WebPages.Deployment.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\System.Web.WebPages.Razor.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Newtonsoft.Json.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Antlr3.Runtime.pdb
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.Owin.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.Google.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BigSchool (1)\BigSchool (1)\BigSchool\obj\Debug\BigSchool.csprojAssemblyReference.cache
+D:\BigSchool (1)\BigSchool (1)\BigSchool\obj\Debug\BigSchool.csproj.CoreCompileInputs.cache
+D:\BigSchool (1)\BigSchool (1)\BigSchool\obj\Debug\BigSchool.csproj.CopyComplete
+D:\BigSchool (1)\BigSchool (1)\BigSchool\obj\Debug\BigSchool.dll
+D:\BigSchool (1)\BigSchool (1)\BigSchool\obj\Debug\BigSchool.pdb
